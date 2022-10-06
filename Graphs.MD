@@ -51,3 +51,18 @@ This above example states that an edge is in between node 1 and 2, 1 and 4 and s
 An Adjancy list is another way to represent edges in the graph. In this list your vertices have an ID number which corresponds to the index in a array
 
 TO BE COMPLETED FROM OTHER SOURCES
+
+## Eulerian Path
+
+A path that travels through every edge in a graph atlease once. In the basic Eulerian path you start with one node traverse through all edges and might end up in a different node.
+
+Not every Graph is capable of having an Eulerian path
+
+### Eulerian Cycle
+
+In Eulerian Cycle, you must tranverse every edge only once and end up at the same node that you started with. 
+
+## Hamiltonian Path
+
+It is another type of path that must go through every vertex once. Simirlarly a Hamiltonian Cycle will start and end with the same vertex
+
